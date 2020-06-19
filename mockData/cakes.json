@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Amandine",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Angel cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Angel food cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Apple cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Applesauce cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Aranygaluska",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Avocado cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Babka",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Ballokume",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Banana bread",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Banana cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Banoffee pie",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Bara brith",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Basbousa",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Batik cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Battenberg cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Baumkuchen",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Bebinca",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Beer cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Better than sex cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Bibingka",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Philippines",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Bienenstich (Bee Sting)",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name": "Birthday cake",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  },
+  {
+    "name":"Bizcocho Dominicano",
+    "cakeImgs": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amandine_cake.jpg/120px-Amandine_cake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG"],
+    "flavor": "Chocalate",
+    "varient":[
+      {
+        "price": 100,
+        "unitValue": "500gm"
+      },
+      {
+        "price": 300,
+        "unitValue": "1kg"
+      },
+      {
+        "price": 600,
+        "unitValue": "3kg"
+      }
+    ],
+    "isEggless":true,
+    "availableAt":["Kanpur", "Jhaasi", "Rudrapur", "Bangalore", "Gurgao", "Delhi"],
+    "chefsWord": "The irresistible taste of this rich delicacy will leave you feeling overwhelmed. With ganache glaze and a fabulous chocolaty-sweet filling, the indulgence is so worth it. Made with three-layers of soft chocolate sponge and coated all over with delicious swirls of whipped cream, and adorned with hand-crafted fondant red heart, this one is a perfect way to express, and impress your beloved. This cake is an ideal choice pick for all special occasions such as Birthday, Anniversary or Valentine's Day.",
+    "cakeDesc":"Heart Shaped Double Heart Choco Truffle Cake"
+  }
+]
